@@ -74,16 +74,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varunmalewar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunmalewar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varunmalewar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=varunmalewar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunmalewar&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunmalewar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
